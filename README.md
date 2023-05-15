@@ -13,6 +13,6 @@ Additionally, I have a keen interest in Web Development and have been exploring 
 
 ## Contact Me
 
-I am always looking for new opportunities and collaborations. If you would like to get in touch with me, please feel free to contact me at [Your Email Address].
+I am always looking for new opportunities and collaborations. If you would like to get in touch with me, please feel free to contact me at chris.ultd@gmail.com.
 
 Thank you for visiting my portfolio, and I look forward to hearing from you soon!
