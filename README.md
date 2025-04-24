@@ -1,4 +1,4 @@
-Certainly! Here is a modified version of the cover letter that can serve as a README for your GitHub repository:
+
 
 # CL Magno's Portfolio
 
