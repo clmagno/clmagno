@@ -8,7 +8,7 @@ data warehouse.
 
 - **Now:** Big Data Analyst (data engineering) at Firstmac, a lender. Glue, DMS, S3, Athena and Terraform across dev, staging and prod.
 - **Before:** data warehouse pipelines on Teradata and Cloudera for a major telco (NCS), and team lead for Google Cloud support (Telus).
-- **Teaching:** I run [CL Magno I.T. Solutions](https://github.com/clmagno/clmits) and a 12-week Data Engineer bootcamp.
+- **Teaching:** I run [CL Magno I.T. Solutions](https://github.com/clmagno/clmits-website) and a 12-week Data Engineer bootcamp.
 
 #### Featured projects
 
@@ -16,8 +16,8 @@ data warehouse.
 |---|---|
 | [**snowflake-lending-warehouse**](https://github.com/clmagno/snowflake-lending-warehouse) | Snowflake + dbt warehouse for a lender: `COPY INTO` loading, RBAC, PII masking, incremental models, arrears and vintage analysis, 35 data tests, CI |
 | [**ddl-metadata-generator**](https://github.com/clmagno/ddl-metadata-generator) | Generates column, table and view metadata for every environment from one validated config, replacing manual preparation |
-| [**TLC_DPM**](https://github.com/clmagno/TLC_DPM) | NYC taxi trip pipeline: Parquet ingestion, cleaning, PostgreSQL load, daily aggregates, row-count and data checks |
-| [**parquet_manager**](https://github.com/clmagno/parquet_manager) | Browser-based Parquet editor (Flask + PyArrow) with search, inline edits and export to Parquet, SQL or JSON |
+| [**nyc-taxi-data-pipeline**](https://github.com/clmagno/nyc-taxi-data-pipeline) | NYC taxi trip pipeline: Parquet ingestion, cleaning, PostgreSQL load, daily aggregates, row-count and data checks |
+| [**parquet-crud-editor**](https://github.com/clmagno/parquet-crud-editor) | Browser-based Parquet editor (Flask + PyArrow) with search, inline edits and export to Parquet, SQL or JSON |
 
 #### Stack
 
