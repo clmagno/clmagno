@@ -1,18 +1,28 @@
+### Hi, I'm Christopher Lloyd Magno
 
+Data engineer in Metro Manila with 10 years across software development, cloud platform
+engineering and big data. I build ingestion and transformation pipelines on **AWS**,
+**Databricks**, **Snowflake** and **Spark**, and I use generative AI in data work:
+Claude on AWS Bedrock day to day, and an AI data assistant I built over a city government
+data warehouse.
 
-# CL Magno's Portfolio
+- **Now:** Big Data Analyst (data engineering) at Firstmac, a lender. Glue, DMS, S3, Athena and Terraform across dev, staging and prod.
+- **Before:** data warehouse pipelines on Teradata and Cloudera for a major telco (NCS), and team lead for Google Cloud support (Telus).
+- **Teaching:** I run [CL Magno I.T. Solutions](https://github.com/clmagno/clmits) and a 12-week Data Engineer bootcamp.
 
-Welcome to my portfolio! My name is Christopher Lloyd Magno, and and I have experience in Data Engineering, Cloud Platform Engineering, Python Programming, Technical Project Management, and Software Development. I have created this portfolio to showcase my work and provide an overview of my skills and experiences.
+#### Featured projects
 
-## About Me
+| Project | What it shows |
+|---|---|
+| [**snowflake-lending-warehouse**](https://github.com/clmagno/snowflake-lending-warehouse) | Snowflake + dbt warehouse for a lender: `COPY INTO` loading, RBAC, PII masking, incremental models, arrears and vintage analysis, 35 data tests, CI |
+| [**ddl-metadata-generator**](https://github.com/clmagno/ddl-metadata-generator) | Generates column, table and view metadata for every environment from one validated config, replacing manual preparation |
+| [**TLC_DPM**](https://github.com/clmagno/TLC_DPM) | NYC taxi trip pipeline: Parquet ingestion, cleaning, PostgreSQL load, daily aggregates, row-count and data checks |
+| [**parquet_manager**](https://github.com/clmagno/parquet_manager) | Browser-based Parquet editor (Flask + PyArrow) with search, inline edits and export to Parquet, SQL or JSON |
 
-As a Cloud Platform Engineer and a Python Programmer, I have experience in developing and automating systems using various technologies such as Cloud Storage, Cloud SQL, and Linux Shell. I have also provided technical support to customers using Cloud Platform products, solutions, and APIs. My background in Data Engineering has equipped me with the skills to analyze and assess the suitability of data sources, develop transformation scripts, and validate data outputs. I have experience in managing projects and a team of programmers, conceptualizing Data Science environment plans and techniques, and developing systems that automate transactions.
+#### Stack
 
-Additionally, I have a keen interest in Web Development and have been exploring tools that enable me to create visually stunning and highly functional websites. I have experience generating Google Reviews and developing websites, and I am confident that I can make a significant contribution to any team looking for a part-time Web Developer.
+**Data:** Python, SQL, Spark/PySpark, Scala, dbt, Airflow · **Platforms:** AWS (Glue, DMS, S3, Athena, Bedrock), Snowflake, Databricks, GCP, Teradata, Cloudera/Hive/Impala · **DevOps:** Terraform, Git, Jenkins, Docker, CI/CD · **GenAI:** AWS Bedrock (Claude), RAG, vLLM
 
+#### Contact
 
-## Contact Me
-
-I am always looking for new opportunities and collaborations. If you would like to get in touch with me, please feel free to contact me at chris.ultd@gmail.com.
-
-Thank you for visiting my portfolio, and I look forward to hearing from you soon!
+[LinkedIn](https://www.linkedin.com/in/clmagno/) · chris.ultd@gmail.com
